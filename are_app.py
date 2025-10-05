@@ -14,7 +14,7 @@ messages, emails, and tasks — all locally, without cloud access.
 
 # User input box
 user_task = st.text_input("Enter your task for the agent:", 
-                          "Send a message to my friend about our -58 PM meeting.")
+                          "Send a message to my friend about our 8 PM meeting.")
 
 # Button to start the simulation
 if st.button("▶️ Run Simulation"):
